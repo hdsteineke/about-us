@@ -21,3 +21,6 @@ README file with plan 	2
 Repo has a commit history with multiple commits and commit messages that make sense 	1
 Link in About section of repo to deployed site in Netlify 	1
 Work is done on a dev branch and a PR link is submitted to Canvas 	1
+
+
+![about-us wireframe] (/assets/wireframe.png "about-us-wireframe")
