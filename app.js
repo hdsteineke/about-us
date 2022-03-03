@@ -13,7 +13,7 @@ personSelector.addEventListener('change', (event) => {
 
     const selected = event.target.value;
 
-    if (selected === 'one' ) {
+    if (selected === 'one') {
         renderPerson(0);
     } else {
         renderPerson(1);

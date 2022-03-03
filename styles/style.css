@@ -88,3 +88,11 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+
+.Thomas {
+    font-style: italic;
+}
+
+.Hailey {
+    font-size: 80px;
+}
